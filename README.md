@@ -12,3 +12,7 @@ go mod tidy
 ```bash
 go run main.go
 ```
+
+---
+video
+![Problem](./video/problem.mp4)
