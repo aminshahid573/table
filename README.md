@@ -1,7 +1,7 @@
 # Run the TUI
 
 ```bash
-https://github.com/aminshahid573/table.git
+git clone https://github.com/aminshahid573/table.git
 cd table
 ```
 
